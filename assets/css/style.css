@@ -434,6 +434,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   color: #fff;
   background: #1acc8d;
+  box-shadow: 0 8px 28px rgba(22, 223, 126, 0.45);
 }
 
 #hero .btn-get-started:hover {
