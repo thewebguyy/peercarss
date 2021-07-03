@@ -430,7 +430,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
   display: inline-block;
   padding: 10px 30px;
-  border-radius: 50px;
+  border-radius: 4px;
   transition: 0.5s;
   color: #fff;
   background: #1acc8d;
@@ -444,11 +444,14 @@ h1, h2, h3, h4, h5, h6 {
 #hero .btn-waiting-list {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
+  display: inline-block;
   font-size: 16px;
   letter-spacing: 1px;
+  margin-left: 25px;
   display: inline-flex;
-  padding: 10px 30px;
-  border-radius: 50px;
+  align-items: center;
+  justify-content: center;
+  
   transition: 0.5s;
   color: #fff;
   background: #1acc8d;
