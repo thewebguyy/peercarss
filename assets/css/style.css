@@ -449,7 +449,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 16px;
   letter-spacing: 1px;
   margin-left: 25px;
-  display: inline-flex;
+  font-weight: 500;
   align-items: center;
   justify-content: center;
   margin-right: 8px;
